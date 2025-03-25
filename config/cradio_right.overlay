@@ -1,5 +1,5 @@
 #include "jko.overlay"
 
-&default_transform { 
+&transform { 
   col-offset = <18>;
 };
