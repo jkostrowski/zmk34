@@ -5,7 +5,7 @@
 
 / {
 
-    transform : keymap_transform_0 {
+    transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
         columns = <36>;
         rows = <1>;
